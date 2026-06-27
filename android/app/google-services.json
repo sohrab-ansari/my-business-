@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59910349152",
+    "project_id": "my-business-app-d2954",
+    "storage_bucket": "my-business-app-d2954.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59910349152:android:a7412a33824bb930683e05",
+        "android_client_info": {
+          "package_name": "com.example.mybusiness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBngvDB4SqGMA7GswRyyLCbZPLfHXZSb6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
